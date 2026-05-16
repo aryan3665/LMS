@@ -6,9 +6,9 @@ The project focuses on building a scalable e-learning platform with secure authe
 
 ---
 
-# 🚀 Features
+#  Features
 
-## 👨‍🎓 Student Features
+##  Student Features
 - User Authentication (Login/Register)
 - Browse and Search Courses
 - Purchase Premium Courses
@@ -18,7 +18,7 @@ The project focuses on building a scalable e-learning platform with secure authe
 - Responsive Student Dashboard
 - Profile Management
 
-## 👨‍🏫 Admin/Instructor Features
+##  Admin/Instructor Features
 - Create and Manage Courses
 - Upload Course Videos & Materials
 - Edit/Delete Courses
@@ -28,7 +28,7 @@ The project focuses on building a scalable e-learning platform with secure authe
 
 ---
 
-# 🛠️ Tech Stack
+#  Tech Stack
 
 ## Frontend
 - React.js
@@ -57,7 +57,7 @@ The project focuses on building a scalable e-learning platform with secure authe
 
 ---
 
-# ✨ Key Highlights
+#  Key Highlights
 
 - Full-stack MERN application
 - Secure JWT-based authentication system
@@ -70,7 +70,7 @@ The project focuses on building a scalable e-learning platform with secure authe
 
 ---
 
-# 💳 Payment Integration
+#  Payment Integration
 
 The platform includes secure online payment functionality for purchasing premium courses.
 
@@ -83,7 +83,7 @@ The platform includes secure online payment functionality for purchasing premium
 
 ---
 
-# 🔐 Authentication System
+#  Authentication System
 
 - Secure user registration and login
 - Encrypted password storage using bcrypt.js
@@ -92,7 +92,7 @@ The platform includes secure online payment functionality for purchasing premium
 
 ---
 
-# ⚙️ Installation
+#  Installation
 
 ## Clone Repository
 
@@ -116,7 +116,7 @@ npm install
 
 ---
 
-# ▶️ Run Project
+#  Run Project
 
 ## Start Backend
 ```bash
@@ -130,7 +130,7 @@ npm start
 
 ---
 
-# 🌐 Environment Variables
+#  Environment Variables
 
 Create a `.env` file inside the server folder.
 
@@ -146,7 +146,7 @@ RAZORPAY_SECRET=your_secret
 
 ---
 
-# 🔒 Security Features
+#  Security Features
 
 - Password Hashing
 - JWT Authentication
@@ -156,7 +156,7 @@ RAZORPAY_SECRET=your_secret
 
 ---
 
-# 📈 Future Improvements
+#  Future Improvements
 
 - Live Classes
 - Quiz & Assessment System
@@ -166,6 +166,6 @@ RAZORPAY_SECRET=your_secret
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 Developed by **ARYAN**
